@@ -3,9 +3,11 @@
 <h1 align="center">Hey there! 👋 I'm Murali Yadav G</h1>
 <p align="center">
   Associate Software Developer at Girmiti Software Pvt. Ltd.<br>
-  Bangalore | <a href="mailto:gmuralioffical@gmail.com">gmuralioffical@gmail.com</a> | 📞 +91 9010141668<br>
+  Bangalore<br>
+  <a href="mailto:techtalksvirtaully@gmail.com">techtalksvirtaully@gmail.com</a><br>
   <a href="https://linkedin.com/in/gmuraliyadav">LinkedIn</a> | <a href="https://github.com/gmuraliyadav">GitHub</a>
 </p>
+
 
 ---
 
