@@ -111,9 +111,10 @@ Reach me through [LinkedIn](https://linkedin.com/in/gmuraliyadav) or [Email](mai
 <summary><strong>⚙️ Snake Activity Graph</strong></summary>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gmuraliyadav/gmuraliyadav/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gmuraliyadav/gmuraliyadav/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/gmuraliyadav/gmuraliyadav/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gmuraliyadav/gmuraliyadav-ui/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gmuraliyadav/gmuraliyadav-ui/output/github-snake.svg" />
+  <img alt="GitHub Snake animation" src="https://raw.githubusercontent.com/gmuraliyadav/gmuraliyadav-ui/output/github-snake.svg" />
 </picture>
+
 
 </details>
